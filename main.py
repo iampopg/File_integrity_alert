@@ -48,6 +48,7 @@ def run():
         print(f'''
             {green}Coded by Pop(G)
                         {red}https://t.me/iampopg
+                        {red}https://github.com/iampopg
         ''')
 
         print('''
