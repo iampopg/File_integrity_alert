@@ -44,7 +44,7 @@ def run():
         
         if not os.path.exists('.integrity_file_path'):
             os.makedirs('.integrity_file_path')
-        print(yellow+ figlet_format('FILE INTERGRITY', font='standard', width = 100))
+        print(yellow+ figlet_format('FILE INTEGRITY', font='standard', width = 100))
         print(f'''
             {green}Coded by Pop(G)
                         {red}https://t.me/iampopg
