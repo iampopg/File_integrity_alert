@@ -51,8 +51,8 @@ def run():
         ''')
 
         print('''
-            [1] Start checking
-            [2] Add integrity file
+            [1] Start Checking
+            [2] Add File for Integrity Monitoring
             [3] Exit
         ''')
         ent = input(': ')
